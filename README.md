@@ -1,2 +1,2 @@
 # Tech-Internship
-This repository if the internship position at InternSavy.
+This repository is for the Projects did for internship position at InternSavy.
