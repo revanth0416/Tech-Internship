@@ -1,0 +1,1 @@
+This project is to perform Segmentation on Customer data - Analysis with Python.
